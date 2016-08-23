@@ -1,0 +1,20 @@
+#storeContainer{
+  background-color: fuchsia;
+
+}
+
+#blogContainer{
+  background-color: purple;
+}
+
+#aboutContainer{
+  background-color: goldenrod;
+}
+
+.hidden{
+  display: none;
+}
+
+.show{
+  display: block;
+}
